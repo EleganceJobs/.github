@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Jobs that will make you happy. Find them now. Take a look at our (website)[https://www.elegancejobs.com/]
+Jobs that will make you happy. Find them now. Take a look at our [website](https://www.elegancejobs.com/)
 
 A product from RocketApex
 <!--
